@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jaydeep
-- 👀 I’m Sr. PHP developer since 8 years, and working with major php frameworks.
-- 🌱 I’m currently learning React Native and Vue JS
+- 👀 I’m Sr. PHP developer since 10+ years, and working with major php frameworks.
+- 🌱 I’m currently working on Laravel, React, Next, React Native, and Vue JS
 - 💞️ I’m ready to work with you
 - 📫 jd.dev777@gmail.com
 
